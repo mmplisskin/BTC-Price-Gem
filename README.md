@@ -27,11 +27,11 @@ Call a rate like this
   BtcRates.get_rate(:bitfinex)
 	=> 232.5
 
+  BtcRates.get_raw(:bitfinex)
+  => {"mid"=>"1437.85", "bid"=>"1436.7", "ask"=>"1439.0", "last_price"=>"1439.9", "low"=>"1392.5", "high"=>"1440.0", "volume"=>"9347.69670993", "timestamp"=>"1493328040.633420628"}
 
-## Additional Options
-
-
-
+## Avaliable Options
+  :bitfinex, :bitstamp, :ok_coin_us, :ok_coin_cny, :weighted_average
 
 ## Development
 
