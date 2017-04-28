@@ -1,8 +1,8 @@
 # BtcRates
 
-[![Gem Version](https://badge.fury.io/rb/btcRates.svg)](http://badge.fury.io/rb/btcRates)
+  [![Gem Version](https://badge.fury.io/rb/btcrates.svg)](https://badge.fury.io/rb/btcrates)
 
-  Btc Rates makes it easy to get current bitcoin rates from a few popular exchanges.
+  BtcRates makes it easy to get current bitcoin rates from a few popular exchanges.
 
 
 ## Installation
@@ -37,7 +37,7 @@ Call a rate like this
 ## Development
 
 ### To Do
-Setup travis ci to work properly
+Add more specs
 Add more exchanges
 
 
